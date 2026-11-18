@@ -1,0 +1,13 @@
+{
+  "source": "Built-in ImageGen edit",
+  "kind": "project-icon",
+  "style": "Vintage hand-drawn sketch",
+  "promptDocumentation": "ASSETS.md",
+  "derived": [
+    "icon-v2-512.png",
+    "icon-v2-192.png",
+    "apple-touch-icon-v2.png",
+    "favicon-v2.png",
+    "icon-maskable-v2.png"
+  ]
+}
